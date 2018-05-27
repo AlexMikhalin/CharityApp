@@ -1,0 +1,40 @@
+.sgrid-N {
+  background-color: #e5fff1;
+  min-height: 1px;
+  padding: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+#right { text-align: right; }
+
+a {
+  display: inline-block;
+  width: 140px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 45px;
+  margin: 5px -20px;
+  text-transform: uppercase;
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #524f4e;
+  background: white;
+}
+a:hover {
+  background: #2EE59D;
+  box-shadow: 0 15px 20px rgba(46,229,157,.4);
+  color: white;
+  transform: translateY(-7px);
+}
+
+.movelink { cursor: pointer; }
+
+.text {
+  font-size: 14px;
+}
+
+
+

@@ -6,12 +6,6 @@
 /tmp
 /out-tsc
 
-# User-specific files 
-*.suo 
-*.user 
-*.userosscache 
-*.sln.docstates
-
 # dependencies
 /node_modules
 
@@ -48,5 +42,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-.vs/
